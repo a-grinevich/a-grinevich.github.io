@@ -7,7 +7,7 @@ theme:
   # Meta
   title: Блог Александра Гриневича
   avatar:
-  gravatar: # Email MD5 hash
+  gravatar: 92944f2aea0f0fbf209ab751e2a6439b # Email MD5 hash
   description: "Блог о веб-разработке и интернет-маркетинге" # used by search engines
 
   # Header and footer text
